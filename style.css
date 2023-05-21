@@ -1,0 +1,38 @@
+h1 {
+    font-family: Montserrat, serif;
+    font-size: 43.3px;
+    margin-bottom: 20px;
+    color: #333;
+    padding-top: 0 10px;
+}
+h2 {
+    font-family: Cabin, sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    color: #333;
+    margin-top: auto;
+}
+p {
+    font-family: Cabin, sans-serif;
+    font-size: 12px;
+    font-weight: lighter;
+    color: #333;
+    margin-top: auto;  
+}
+
+#charts-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  canvas {
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+  }
+
+
+
+
+  
+  
